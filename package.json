@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon",
-    "build":"npm install",
+    "build":"npm run buildi",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
