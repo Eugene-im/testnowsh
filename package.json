@@ -1,7 +1,7 @@
 {
   "name": "weblab1",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is test node project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
